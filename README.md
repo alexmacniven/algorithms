@@ -48,3 +48,7 @@ This repository could get a little tricky to navigate, typically I'll store a so
 [Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)  
 [Solution](./javascript/palindrome_checker.js)
 
+**Roman Numeral Converter**
+[Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)  
+[Solution](./javascript/roman_numeral_converter.js)
+
