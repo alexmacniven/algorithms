@@ -52,3 +52,7 @@ This repository could get a little tricky to navigate, typically I'll store a so
 [Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter)  
 [Solution](./javascript/roman_numeral_converter.js)
 
+**Caesars Cipher**
+[Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)  
+[Solution](./javascript/caesars_cipher.js)
+
