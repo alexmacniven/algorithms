@@ -60,3 +60,6 @@ This repository could get a little tricky to navigate, typically I'll store a so
 [Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)  
 [Solution](./javascript/telephone_number_validator.js)
 
+**Cash Register**  
+[Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)  
+[Solution](./javascript/cash_register.js)
